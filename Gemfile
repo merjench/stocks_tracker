@@ -10,6 +10,8 @@ gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
+# gem 'iex-ruby-client'
+gem "stock_quote", '~> 3.0.0'
 
 gem 'sqlite3'
 # Use Puma as the app server
