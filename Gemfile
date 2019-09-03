@@ -12,6 +12,7 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 # gem 'iex-ruby-client'
 gem "stock_quote", '~> 3.0.0'
+gem 'figaro'
 
 gem 'sqlite3'
 # Use Puma as the app server
